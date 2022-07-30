@@ -1,1 +1,5 @@
-efdbb74ec98fbcad2cd0155075aa52
+RainyNight™是由微软Mic所开发的适用于无政府类型服务器的辅助工具 。
+RainyNight™部分Module使用了Scanner源码，已获得ScannerAuthor授权。
+RainyNight™底层使用了极云自主编写的"NekoHack"并已获得Devloper授权。
+RainyNight™中的验证系统、Loader、防泄露系统均使用trdyun编写的Cup系列产品，CupServer由trdyun定制并授权。
+Copyright 版权所有 © 2021-2022 RainyNightTeam, Inc. All rights reserved
